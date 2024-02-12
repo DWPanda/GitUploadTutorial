@@ -1,0 +1,7 @@
+<< git terminal commands to upload to github fast & easy >>
+
+git init
+git add .
+git commit -m "message goes here if you want"
+git remote add origin https:// url of repo on github.com
+git push -u origin master
